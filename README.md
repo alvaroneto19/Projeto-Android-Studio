@@ -1,3 +1,3 @@
 # Projeto-Android-Studio
 
-### Rquisitos funcionais 
+### Rquisitos Fucnionais
