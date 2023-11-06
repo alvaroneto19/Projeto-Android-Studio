@@ -1,26 +1,16 @@
 # Projeto-Android-Studio
 
-### Rquisitos Fucnionais
+### Historias dos nossos usuarios
 
-```http
-  GET /api/items
-```
+### `Mostrando nossos requisitos` funcionais
 
-| Parâmetro   | Tipo       | Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
-| `api_key` | `string` | **Obrigatório**. A chave da sua API |
+- Gostaria que o aplicativo tivesse uma interface amigavel e intuitiva
+- Como uma criança que convive com o TEA, queria que fosse possivel criar historinhas interativas com meus personagens favoritos
+- Seria otimo o aplicativo ter como eu mover imagens, textos em simples gestos
+- Como criança com TEA, adoraria compartilhar minhas historias com meus colegas
+- Eu como portadora de TEA seria bem desafiadora ter um sistema de progressão no aplicativo
+- 
 
-#### Retorna um item
 
-```http
-  GET /api/items/${id}
-```
 
-| Parâmetro   | Tipo       | Descrição                                   |
-| :---------- | :--------- | :------------------------------------------ |
-| `id`      | `string` | **Obrigatório**. O ID do item que você quer |
-
-#### add(num1, num2)
-
-Recebe dois números e retorna a sua soma.
 
