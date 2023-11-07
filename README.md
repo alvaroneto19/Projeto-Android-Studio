@@ -26,10 +26,12 @@
 - Acho que seria otimo, o aplicativpo poder suportar vidios e audios para torna-los mais envolventes
 ```
 ```bash
-- Como uma criança com TEA, eu quero que o aplicativo possa forneçer feedback como animações ou musicas em relação a minhas ações e desenvolvimento!
+- Como uma criança com TEA, eu quero que o aplicativo possa forneçer
+feedback como animações ou musicas em relação a minhas ações e desenvolvimento!
 ```
 ```bash
-como uma criança com TEA, me sentiria muito sastifeito que o aplicativo desse a oportunidade de min personalizar pos cenarios e meus personagens
+como uma criança com TEA, me sentiria muito sastifeito que o aplicativo
+desse a oportunidade de min personalizar pos cenarios e meus personagens
 ```
 
 
